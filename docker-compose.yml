@@ -11,4 +11,4 @@ services:
       BOT_TOKEN: 5407885401:AAH5T1ZH44BV2XfG-s-pzv6vAg1tT8sdLLs # Bot token, get it from @BotFather 
       SESSION: BQDFEbC_NhWKlqD6tn7tMuCqI6jCGK2RTGvH_C2etFkdB1jPGIdirZHTZi-2ni5P4AYkuwfrPoA5Zg070_2KsdBYdrZMUMGF9Je583cR1vbNSbAugQbJI9eqzGirjZJNc5pflRM_8U26ngYi6uJ_dGe1DWD8LETUXvYQZZN8iuYGvArNJTgc4qPS0eycIjuCXRoroLkmSFKNope5oMHOiwI9NhrrtEH06wqNdf4dw64X3aQbMrLhrPrDqytN2GKwnqzPq5QvYN3bqy-A7RPs5Ey6SV4RIPIM1l_jHUl4xSNXFcR49rHxiF3U0UytCx-HT2b38QFwMQp7BprvjgLhjlCLVbgQA # Pyrogram string session
       AUTH: 1438138105 # User ID of Bot owner
-      FORCESUB: @YanzzUcull # Username name of public channel without using '@'
+      FORCESUB: YanzzUcull # Username name of public channel without using '@'
