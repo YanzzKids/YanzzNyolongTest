@@ -12,12 +12,12 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 # variables
-API_ID = config("API_ID", default=None, cast=int)
-API_HASH = config("API_HASH", default=None)
-BOT_TOKEN = config("BOT_TOKEN", default=None)
-SESSION = config("SESSION", default=None)
-FORCESUB = config("FORCESUB", default=None)
-AUTH = config("AUTH", default=None, cast=int)
+API_ID = 27621449
+API_HASH = b1118d4dd11827478807d36b317db4be
+BOT_TOKEN = 5407885401:AAH5T1ZH44BV2XfG-s-pzv6vAg1tT8sdLLs
+SESSION = BQDFEbC_NhWKlqD6tn7tMuCqI6jCGK2RTGvH_C2etFkdB1jPGIdirZHTZi-2ni5P4AYkuwfrPoA5Zg070_2KsdBYdrZMUMGF9Je583cR1vbNSbAugQbJI9eqzGirjZJNc5pflRM_8U26ngYi6uJ_dGe1DWD8LETUXvYQZZN8iuYGvArNJTgc4qPS0eycIjuCXRoroLkmSFKNope5oMHOiwI9NhrrtEH06wqNdf4dw64X3aQbMrLhrPrDqytN2GKwnqzPq5QvYN3bqy-A7RPs5Ey6SV4RIPIM1l_jHUl4xSNXFcR49rHxiF3U0UytCx-HT2b38QFwMQp7BprvjgLhjlCLVbgQA
+FORCESUB = YanzzUcull
+AUTH = 1438138105
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
 
